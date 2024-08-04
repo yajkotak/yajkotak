@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Yaj Kotak, a junior Computer Science student passionate about coding and problem-solving. I love diving into new technologies, working on innovative projects, and contributing to open-source. Here you'll find my journey through various coding challenges, personal projects, and collaborative work. Let's connect and code something awesome!</p>
+<p align="left">I'm Yaj Kotak, a junior Computer Science student passionate about coding and problem-solving. I love diving into new technologies, working on innovative projects, and contributing to open-source. Here you'll find my journey through various coding challenges, personal projects, and collaborative work. Let's connect and code something awesome!</p>
 
 ###
 
