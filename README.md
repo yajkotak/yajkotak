@@ -46,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
@@ -59,6 +57,10 @@
   <a href="https://www.hackerrank.com/profile/yajkotak24" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+  <a href="https://www.kaggle.com/yajkotak" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="52" height="40" alt="kaggle logo" />
+  </a>
 </div>
 
 ###
+
